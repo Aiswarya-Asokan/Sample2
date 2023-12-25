@@ -3,7 +3,7 @@ package string;
 public class StringPalindrome {
 
 	public static void main(String[] args) {
-		String a="hai";
+		String a="mom";
 		String b="";
 		for(int i=2;i>=0;i--)
 		{
